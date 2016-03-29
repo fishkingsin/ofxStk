@@ -1,4 +1,6 @@
 #pragma once
+#undef PI
+#undef TWO_PI
 #include "ADSR.h"
 #include "Asymp.h"
 #include "BandedWG.h"
